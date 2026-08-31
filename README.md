@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Nataly Paulino
 
-<!--
-**natalipaulino13/natalipaulino13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
 
-Here are some ideas to get you started:
+He finalizado mi formación en **Desarrollo de Aplicaciones Web (DAW)** y estoy enfocada en seguir desarrollándome profesionalmente en el mundo de la programación y el desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta aprender mediante la práctica, crear proyectos y seguir ampliando mis conocimientos a través de nuevos retos.
+
+## 🚀 Sobre mí
+
+🎓 Técnico Superior en Desarrollo de Aplicaciones Web
+💻 Desarrollo de aplicaciones y páginas web
+🌱 Aprendizaje continuo y mejora constante
+📂 Creación de proyectos para mi portfolio profesional
+
+## 🛠️ Tecnologías
+
+* ☕ Java
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+* 🗄️ SQL
+* 🔧 Git & GitHub
+
+## 🌱 Actualmente
+
+Estoy ampliando mis conocimientos en desarrollo web y creando nuevos proyectos para seguir mejorando mis habilidades y construir un portfolio profesional.
+
+## 🎯 Objetivo profesional
+
+Seguir creciendo como desarrolladora, participar en proyectos reales y aplicar mis conocimientos en un entorno profesional.
+
+---
+
+⭐ Gracias por visitar mi perfil.
