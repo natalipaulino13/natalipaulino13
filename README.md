@@ -1,41 +1,57 @@
+<div align="center">
+
 # 👋 ¡Hola! Soy Nataly Paulino
 
-### 💻 Técnico Superior en Desarrollo de Aplicaciones Web | Junior Developer
+### 💻 Desarrolladora Web Junior · DAW
 
-¡Bienvenido/a a mi perfil de GitHub! 🚀
-
-Soy desarrolladora web en formación, apasionada por la tecnología y por seguir aprendiendo y creando proyectos que me permitan convertir mis conocimientos en soluciones reales.
-
-Actualmente estoy enfocada en mejorar mis habilidades en **Java, desarrollo web, bases de datos y Git/GitHub**, mientras continúo creando nuevos proyectos.
-
-<p align="center">
-  <a href="https://natalipaulino13.github.io/porfolio">
-    <img src="https://img.shields.io/badge/🌐%20VER%20MI%20PORTFOLIO-6C63FF?style=for-the-badge"/>
-  </a>
+<p>
+  <em>Aprendiendo · Creando · Mejorando 🚀</em>
 </p>
+
+</div>
 
 ---
 
 ## 👩‍💻 Sobre mí
 
-* 🎓 Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)**
-* ☕ Desarrollo de aplicaciones con **Java**
-* 🧩 Programación Orientada a Objetos
-* 🗄️ Bases de datos y consultas **SQL**
-* 🐬 Trabajo con **MySQL y MariaDB**
-* 🔧 Control de versiones con **Git y GitHub**
-* 🌐 Desarrollo web
-* 🌱 Siempre aprendiendo nuevas tecnologías y mejorando mis proyectos
-* 🎯 Mi objetivo es seguir creciendo profesionalmente dentro del mundo del desarrollo de software
+🎓 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
+
+💻 Me interesa el desarrollo de software y la creación de aplicaciones y páginas web.
+
+☕ Actualmente trabajo principalmente con **Java**, programación orientada a objetos y colecciones.
+
+🗄️ También desarrollo proyectos utilizando **SQL, MySQL, MariaDB y SQLite**.
+
+🔧 Utilizo **Git y GitHub** para gestionar y publicar mis proyectos.
+
+🌱 Mi objetivo es seguir aprendiendo, mejorar mis habilidades y adquirir experiencia en proyectos reales.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-<p align="left">
+### 💻 Desarrollo
 
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql,mariadb,git,github,vscode" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
+### 🗄️ Bases de datos
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+### 🔧 Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
@@ -44,87 +60,120 @@ Actualmente estoy enfocada en mejorar mis habilidades en **Java, desarrollo web,
 
 ### 🌐 Portfolio
 
-Mi portfolio personal donde puedes conocerme mejor, consultar mis proyectos y ver mi evolución como desarrolladora.
+Mi portfolio personal donde presento mis proyectos, prácticas y evolución como desarrolladora.
 
-👉 **[Visitar mi Portfolio](https://natalipaulino13.github.io/porfolio)**
+**Tecnologías:** HTML · CSS · JavaScript
 
----
-
-### ☕ Proyectos Java
-
-Proyectos desarrollados durante mi formación para poner en práctica:
-
-* Programación Orientada a Objetos
-* Clases y objetos
-* Estructuras de control
-* Arrays y colecciones
-* Excepciones
-* Lógica de programación
+👉 [🌐 Visitar mi Portfolio](https://natalipaulino13.github.io/porfolio)
 
 ---
 
-### 🗄️ Proyectos de Bases de Datos
+### 🏥 Gestión de Pacientes
 
-Ejercicios y proyectos relacionados con bases de datos y SQL, trabajando con:
+Aplicación desarrollada en Java para gestionar pacientes utilizando conexión con base de datos.
 
-* Consultas SQL
-* SELECT, WHERE, ORDER BY
-* Funciones de agregación
-* JOIN
-* Subconsultas
-* Relaciones entre tablas
-* MySQL / MariaDB
+**Tecnologías:** Java · JDBC · SQLite · SQL · CRUD
+
+👉 [💻 Ver proyecto en GitHub](https://github.com/natalipaulino13/practica.clinica.java)
+
+---
+
+### 📚 Biblioteca
+
+Aplicación para gestionar una biblioteca mediante Java, JDBC y SQLite.
+
+Incluye operaciones CRUD, búsquedas, filtros y ordenación de libros.
+
+**Tecnologías:** Java · JDBC · SQLite · SQL · CRUD
+
+👉 [💻 Ver proyecto en GitHub](https://github.com/natalipaulino13/practica.bbdd.java)
+
+---
+
+### 🚗 Alquiler de Coches
+
+Aplicación desarrollada en Java para gestionar vehículos, alquileres, devoluciones y listados ordenados.
+
+**Tecnologías:** Java · POO · ArrayList · Colecciones
+
+👉 [💻 Ver proyecto en GitHub](https://github.com/natalipaulino13/practica.alquiler.coche.java)
+
+---
+
+### 🎡 Feria de Atracciones
+
+Aplicación para gestionar una pequeña feria de atracciones, feriantes, cuadrantes y ganancias semanales.
+
+**Tecnologías:** Java · POO · ArrayList · Interfaces
+
+👉 [💻 Ver proyecto en GitHub](https://github.com/natalipaulino13/parque.atracciones.java)
+
+---
+
+### 👩‍🎓 Gestión de Alumnos
+
+Aplicación para gestionar un censo de alumnos y un registro de partes utilizando colecciones de Java.
+
+**Tecnologías:** Java · POO · ArrayList · HashSet
+
+👉 [💻 Ver proyecto en GitHub](https://github.com/natalipaulino13/practica.censo.java)
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-🌱 **Desarrollo de software**
+🌱 Desarrollo de software
 
-☕ **Java**
+☕ Java
 
-🌐 **Desarrollo web**
+🌐 Desarrollo web
 
-🗄️ **Bases de datos y SQL**
+🗄️ Bases de datos y SQL
 
-🔧 **Git & GitHub**
+🔧 Git & GitHub
 
-💡 Nuevas herramientas y tecnologías que me permitan seguir creciendo como desarrolladora.
+💡 Nuevas tecnologías y herramientas de desarrollo
 
 ---
 
 ## 🎯 Mi objetivo profesional
 
-Mi objetivo es seguir desarrollándome como profesional del sector tecnológico, adquiriendo experiencia en proyectos reales y formando parte de un equipo donde pueda **aprender, aportar mis conocimientos y seguir creciendo**.
+Mi objetivo es seguir creciendo como desarrolladora, adquirir experiencia en proyectos reales y formar parte de un equipo donde pueda seguir aprendiendo y aportar mis conocimientos.
 
-Estoy especialmente interesada en oportunidades que me permitan continuar evolucionando como desarrolladora y convertir todo lo aprendido durante mi formación en experiencia profesional.
+Estoy especialmente interesada en oportunidades relacionadas con el **desarrollo web y desarrollo de software**.
 
 ---
 
 ## 🌐 Portfolio
 
-<p align="center">
+<div align="center">
+
+### ✨ ¿Quieres conocer mis proyectos?
 
 <a href="https://natalipaulino13.github.io/porfolio">
-<img src="https://img.shields.io/badge/🌐%20VER%20MI%20PORTFOLIO-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🌐_VISITAR_MI_PORTFOLIO-FF69B4?style=for-the-badge&logoColor=white">
+
 </a>
 
-</p>
+</div>
 
 ---
 
 ## 📫 Conecta conmigo
 
-<p align="left">
+🐙 **GitHub:** [@natalipaulino13](https://github.com/natalipaulino13)
 
-<a href="https://github.com/natalipaulino13">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🌐 **Portfolio:** [natalipaulino13.github.io/porfolio](https://natalipaulino13.github.io/porfolio)
 
-</p>
+💼 **LinkedIn:** Próximamente
 
 ---
 
+<div align="center">
+
 ### ✨ Gracias por visitar mi perfil
 
-> *Aprendiendo, creando y creciendo un proyecto a la vez.* 🚀
+> Aprendiendo, creando y creciendo un proyecto a la vez. 🚀
+
+</div>
