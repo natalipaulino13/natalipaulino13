@@ -50,27 +50,43 @@ En mi portfolio puedes conocer mis principales proyectos, las tecnologías utili
 
 ## 🚀 Proyectos destacados
 
-Algunos de los proyectos en los que he trabajado:
-
-### 🏥 Clínica
+### 🏥 [Clínica](https://github.com/natalipaulino13/practica.clinica.java)
 
 Aplicación Java para gestionar pacientes mediante **JDBC y SQLite**, incluyendo operaciones CRUD, búsquedas y filtros.
 
-### 📚 Biblioteca
+👉 [Ver proyecto en GitHub](https://github.com/natalipaulino13/practica.clinica.java)
+
+---
+
+### 📚 [Biblioteca](https://github.com/natalipaulino13/practica.bbdd.java)
 
 Aplicación Java para gestionar una biblioteca mediante **JDBC y SQLite**, con CRUD, búsquedas, filtros y ordenación.
 
-### 🚗 Alquiler de coches
+👉 [Ver proyecto en GitHub](https://github.com/natalipaulino13/practica.bbdd.java)
+
+---
+
+### 🚗 [Alquiler de coches](https://github.com/natalipaulino13/practica.alquiler.coche.java)
 
 Aplicación desarrollada en Java para gestionar vehículos, alquileres, devoluciones y listados utilizando **POO y ArrayList**.
 
-### 🎡 Feria de atracciones
+👉 [Ver proyecto en GitHub](https://github.com/natalipaulino13/practica.alquiler.coche.java)
+
+---
+
+### 🎡 [Feria de atracciones](https://github.com/natalipaulino13/parque.atracciones.java)
 
 Aplicación Java para gestionar una feria de atracciones utilizando **POO, interfaces y ArrayList**.
 
-### 👨‍🎓 Gestión de alumnos
+👉 [Ver proyecto en GitHub](https://github.com/natalipaulino13/parque.atracciones.java)
+
+---
+
+### 👨‍🎓 [Gestión de alumnos](https://github.com/natalipaulino13/practica.censo.java)
 
 Aplicación Java para gestionar un censo de alumnos y un registro de partes utilizando **ArrayList y HashSet**.
+
+👉 [Ver proyecto en GitHub](https://github.com/natalipaulino13/practica.censo.java)
 
 ---
 
